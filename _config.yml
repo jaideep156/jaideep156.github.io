@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jaideep's Portfolio"
+title                    : "Jaideep's Homepage"
 title_separator          : "-"
 name                     : &name "Jaideep Prashar"
 description              : &description "personal description"

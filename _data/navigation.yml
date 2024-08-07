@@ -3,7 +3,7 @@ main:
   - title: "CV"
     url: /files/PortfolioResume.pdf
 
-  - title: "Portfolio"
+  - title: "Personal Projects"
     url: /portfolio/
   
   - title: "Blog Posts"

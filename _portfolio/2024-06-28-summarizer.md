@@ -4,4 +4,4 @@ excerpt: "Text summarization of top tech news articles from The Verge using Goog
 collection: portfolio
 ---
 
-Check it out on [GitHub](https://github.com/jaideep156/TheVerge-Summarizer) and the live version [here](https://verge-digest.streamlit.app/)
+Check it out on [GitHub](https://github.com/jaideep156/TheVerge-Summarizer) and the live version [here](https://verge-digest.streamlit.app/).

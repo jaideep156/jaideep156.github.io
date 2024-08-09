@@ -4,4 +4,4 @@ excerpt: "This project analyzes sentiment patterns within Medium app reviews fro
 collection: portfolio
 ---
 
-Check it out on [GitHub](https://github.com/jaideep156/medium-reviews-sentiment-analysis).
+Check it out on [GitHub](https://github.com/jaideep156/medium-reviews-sentiment-analysis) and the live version [here](https://medium-sentiment-analysis.streamlit.app/).
